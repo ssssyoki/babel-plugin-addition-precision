@@ -1,5 +1,6 @@
 # babel-plugin-addition-precision
 
+
 ## usage
 ```javascript
 npm i babel-plugin-addition-precision -D
@@ -13,7 +14,7 @@ npm i babel-plugin-addition-precision -D
 0.4 + 1.3 = 1.7000000000000002;
 ```
 
-###after
+### after
 ```javascript
 0.1 + 0.2 = 0.3;
 0.3 + 0.6 = 0.9;
