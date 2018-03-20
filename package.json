@@ -1,0 +1,29 @@
+{
+  "name": "babel-plugin-addition-precision",
+  "version": "1.2.5",
+  "description": "Solving the problem of decimal point precision",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssssyoki/babel-plugin-addition-precision.git"
+  },
+  "keywords": [
+    "dom",
+    "selector",
+    "babel"
+  ],
+  "author": "ssssyoki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssssyoki/babel-plugin-addition-precision/issues"
+  },
+  "homepage": "https://github.com/ssssyoki/babel-plugin-addition-precision#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-types": "^6.26.0",
+    "big.js": "^5.0.3"
+  }
+}

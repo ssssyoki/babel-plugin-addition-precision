@@ -1,0 +1,6 @@
+/node_modules/
+npm-debug.log
+.DS_Store
+/project/web/build/
+.idea
+*.iml
