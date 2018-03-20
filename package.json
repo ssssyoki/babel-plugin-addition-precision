@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-addition-precision",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Solving the problem of decimal point precision",
   "main": "index.js",
   "scripts": {
